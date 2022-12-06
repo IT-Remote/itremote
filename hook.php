@@ -1,7 +1,7 @@
 <?php
 
 // Obligatoire
-function plugin_itremote_install()
+function plugin_remote_install()
 {
     global $DB;
 
@@ -9,7 +9,7 @@ function plugin_itremote_install()
 }
 
 // Obligatoire
-function plugin_itremote_uninstall()
+function plugin_remote_uninstall()
 {
     global $DB;
 
