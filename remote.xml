@@ -6,12 +6,24 @@
     <logo>https://itremote.com/wp-content/uploads/2022/04/ITR_Pictogramme_De%CC%81grade%CC%81_300dpi.jpg</logo>
     <description>
         <short>
-            <en>short description of the plugin, displayed on list, text only</en>
+            <fr>Le plugin IT Remote, solution d’accès et d’assistance à distance.</fr>
+            <en>The IT Remote plugin, a remote access and assistance solution.</en>
             <lang>fr_FR</lang>
+            <lang>en_US</lang>
         </short>
         <long>
-            <en>short description of the plugin, displayed on detail, Markdown accepted</en>
+            <fr>Le plugin IT Remote, solution d’accès et d’assistance à distance, permet de réaliser directement à partir du Parc ou des Incidents de GPLI une prise de main à distance vos PC ou Serveurs.
+
+Pour ce faire, il faudra tout d’abord soit être client IT Remote et posséder une licence soit utiliser notre version d’évaluation.
+
+Notre site Web : https://itremote.com/</fr>
+            <en> The IT Remote plugin, a remote access and assistance solution, allows you to perform a remote control of your PCs or Servers directly from the Park or GPLI Incidents
+
+To do this, you must first either be an IT Remote customer and have a license or use our trial version.
+            
+            Our website: https://itremote.com/</en>
             <lang>fr_FR</lang>
+            <lang>en_US</lang>
         </long>
     </description>
     <homepage>https://itremote.com</homepage>
