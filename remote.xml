@@ -48,6 +48,12 @@ To do this, you must first either be an IT Remote customer and have a license or
     <tags>
         <en>
             <tag>remote</tag>
+            <tag>controller</tag>
+            <tag>desktop</tag>
+            <tag>virtual-desktop</tag>
+            <tag>cheap</tag>
+            <tag>quick-support</tag>
+            <tag>administrator</tag>
         </en>
         <lang>
             <tag>french</tag>
@@ -55,9 +61,9 @@ To do this, you must first either be an IT Remote customer and have a license or
         </lang>
     </tags>
     <screenshots>
-        <screenshot/>
-        <screenshot/>
-        <screenshot/>
+        <screenshot>https://github.com/IT-Remote/remote/blob/main/img-itremote.com.png?raw=true</screenshot>
+        <screenshot>https://github.com/IT-Remote/remote/blob/main/img-remote-controller.png?raw=true</screenshot>
+        <screenshot>https://github.com/IT-Remote/remote/blob/main/img-plugin-itremote.jpg?raw=true</screenshot>
     </screenshots>
 </root>
 
