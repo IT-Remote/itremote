@@ -44,13 +44,13 @@ Nuestro sitio web: https://itremote.com/</es>
     <versions>
         <version>
             <num>1.2</num>
-            <compatibility>10.0.5</compatibility>
-            <compatibility>10.0.4</compatibility>
-            <compatibility>10.0.3</compatibility>
-            <compatibility>10.0.2</compatibility>
-            <compatibility>10.0.1</compatibility>
-            <compatibility>10.0.0</compatibility>
-            <compatibility>10.0</compatibility>
+            <compatibility>~10.0.5</compatibility>
+            <compatibility>~10.0.4</compatibility>
+            <compatibility>~10.0.3</compatibility>
+            <compatibility>~10.0.2</compatibility>
+            <compatibility>~10.0.1</compatibility>
+            <compatibility>~10.0.0</compatibility>
+            <compatibility>~10.0</compatibility>
             <compatibility>9.5.11</compatibility>
             <compatibility>9.5.10</compatibility>
             <compatibility>9.5.9</compatibility>
