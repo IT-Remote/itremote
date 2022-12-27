@@ -36,7 +36,7 @@ To do this, you must first either be an IT Remote customer and have a license or
     <versions>
         <version>
             <num>1.0</num>
-            <compatibility>~9.4.0</compatibility>
+            <compatibility>10.0.5.x</compatibility>
             <download_url>https://github.com/IT-Remote/remote/archive/refs/heads/main.zip</download_url>
         </version>
     </versions>
