@@ -8,8 +8,10 @@
         <short>
             <fr>Le plugin IT Remote, solution d’accès et d’assistance à distance.</fr>
             <en>The IT Remote plugin, a remote access and assistance solution.</en>
+            <es>El complemento IT Remote, una solución de asistencia y acceso remoto.</es>
             <lang>fr_FR</lang>
             <lang>en_US</lang>
+            <lang>es_ES</lang>
         </short>
         <long>
             <fr>Le plugin IT Remote, solution d’accès et d’assistance à distance, permet de réaliser directement à partir du Parc ou des Incidents de GPLI une prise de main à distance vos PC ou Serveurs.
@@ -21,9 +23,15 @@ Notre site Web : https://itremote.com/</fr>
 
 To do this, you must first either be an IT Remote customer and have a license or use our trial version.
             
-            Our website: https://itremote.com/</en>
+Our website: https://itremote.com/</en>
+            <es>El complemento IT Remote, una solución de acceso y asistencia remota, le permite realizar un control remoto de sus PC o Servidores directamente desde el Parque o GPLI Incidentes
+
+Para hacer esto, primero debe ser un cliente de IT Remote y tener una licencia o usar nuestra versión de prueba.
+            
+Nuestro sitio web: https://itremote.com/</es>
             <lang>fr_FR</lang>
             <lang>en_US</lang>
+            <lang>es_ES</lang>
         </long>
     </description>
     <homepage>https://itremote.com</homepage>
@@ -35,14 +43,71 @@ To do this, you must first either be an IT Remote customer and have a license or
     </authors>
     <versions>
         <version>
-            <num>1.0</num>
-            <compatibility>10.0.5.x</compatibility>
+            <num>1.2</num>
+            <compatibility>10.0.5</compatibility>
+            <compatibility>10.0.4</compatibility>
+            <compatibility>10.0.3</compatibility>
+            <compatibility>10.0.2</compatibility>
+            <compatibility>10.0.1</compatibility>
+            <compatibility>10.0.0</compatibility>
+            <compatibility>10.0</compatibility>
+            <compatibility>9.5.11</compatibility>
+            <compatibility>9.5.10</compatibility>
+            <compatibility>9.5.9</compatibility>
+            <compatibility>9.5.8</compatibility>
+            <compatibility>9.5.7</compatibility>
+            <compatibility>9.5.6</compatibility>
+            <compatibility>9.5.5</compatibility>
+            <compatibility>9.5.4</compatibility>
+            <compatibility>9.5.3</compatibility>
+            <compatibility>9.5.2</compatibility>
+            <compatibility>9.5.1</compatibility>
+            <compatibility>9.5.0</compatibility>
+            <compatibility>9.5</compatibility>
+            <compatibility>9.4.6</compatibility>
+            <compatibility>9.4.5</compatibility>
+            <compatibility>9.4.4</compatibility>
+            <compatibility>9.4.3</compatibility>
+            <compatibility>9.4.2</compatibility>
+            <compatibility>9.4.1</compatibility>
+            <compatibility>9.4.0</compatibility>
+            <compatibility>9.4</compatibility>
+            <compatibility>9.3.4</compatibility>
+            <compatibility>9.3.3</compatibility>
+            <compatibility>9.3.2</compatibility>
+            <compatibility>9.3.1</compatibility>
+            <compatibility>9.3.0</compatibility>
+            <compatibility>9.3</compatibility>
+            <compatibility>9.2.4</compatibility>
+            <compatibility>9.2.3</compatibility>
+            <compatibility>9.2.2</compatibility>
+            <compatibility>9.2.1</compatibility>
+            <compatibility>9.2.0</compatibility>
+            <compatibility>9.2</compatibility>
+            <compatibility>9.1.6</compatibility>
+            <compatibility>9.1.5</compatibility>
+            <compatibility>9.1.4</compatibility>
+            <compatibility>9.1.3</compatibility>
+            <compatibility>9.1.2</compatibility>
+            <compatibility>9.1.1</compatibility>
+            <compatibility>9.1.0</compatibility>
+            <compatibility>9.1</compatibility>
+            <compatibility>0.90.5</compatibility>
+            <compatibility>0.90.4</compatibility>
+            <compatibility>0.90.3</compatibility>
+            <compatibility>0.90.2</compatibility>
+            <compatibility>0.90.1</compatibility>
+            <compatibility>0.90.0</compatibility>
+            <compatibility>0.90</compatibility>
+            <compatibility>0.85.5</compatibility>
+            <compatibility>0.85.4</compatibility>
             <download_url>https://github.com/IT-Remote/remote/archive/refs/heads/main.zip</download_url>
         </version>
     </versions>
     <langs>
         <lang>fr_FR</lang>
         <lang>en_US</lang>
+        <lang>es_ES</lang>
     </langs>
     <license>GPL v2+</license>
     <tags>
@@ -54,10 +119,26 @@ To do this, you must first either be an IT Remote customer and have a license or
             <tag>cheap</tag>
             <tag>quick-support</tag>
             <tag>administrator</tag>
+            <tag>network</tag>
+            <tag>VMWare</tag>
+            <tag>remote deployment</tag>
         </en>
+        <fr>
+            <tag>distance</tag>
+            <tag>controle</tag>
+            <tag>bureau</tag>
+            <tag>bureau virtuel</tag>
+            <tag>pas cher</tag>
+            <tag>assistance rapide</tag>
+            <tag>administrateur</tag>
+            <tag>reseau</tag>
+            <tag>VMWare</tag>
+            <tag>télédéploiement</tag>
+        </fr>
         <lang>
             <tag>french</tag>
             <tag>english</tag>
+            <tag>spanish</tag>
         </lang>
     </tags>
     <screenshots>
