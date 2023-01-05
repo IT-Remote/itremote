@@ -17,11 +17,11 @@ function plugin_init_remote()
 function plugin_version_remote()
 {
     return array('name' => "IT Remote",
-        'version' => '1.0.0',
+        'version' => '1.2',
         'author' => 'IT Remote',
         'license' => 'GPLv2+',
         'homepage' => 'https://itremote.com/',
-        'minGlpiVersion' => '0.83');
+        'minGlpiVersion' => '0.85.4');
 }
 
 // Obligatoire
