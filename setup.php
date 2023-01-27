@@ -3,18 +3,19 @@
 use Glpi\Plugin\Hooks;
 
 // Main plugin
-function plugin_init_remote()
+function plugin_init_itremote()
 {
     global $PLUGIN_HOOKS;
-    $PLUGIN_HOOKS['csrf_compliant']['remote'] = true;
+    $PLUGIN_HOOKS['csrf_compliant']['itremote'] = true;
 
-    $PLUGIN_HOOKS['config_page']['remote'] = 'front/config.form.php';
+    $PLUGIN_HOOKS['config_page']['itremote'] = 'front/config.form.php';
 
-    $PLUGIN_HOOKS[Hooks::PRE_ITEM_FORM]['remote'] = [PluginRemoteRemote::class, 'button_support'];
+    $PLUGIN_HOOKS[Hooks::PRE_ITEM_FORM]['itremote'] = [PluginItremoteController::class, 'button_support'];
+
 }
 
 // Obligatoire
-function plugin_version_remote()
+function plugin_version_itremote()
 {
     return array('name' => "IT Remote",
         'version' => '1.2',
@@ -25,19 +26,13 @@ function plugin_version_remote()
 }
 
 // Obligatoire
-function plugin_remote_check_prerequisites()
+function plugin_itremote_check_prerequisites()
 {
     return true;
 }
 
 // Obligatoire
-function plugin_remote_check_config($verbose = false)
+function plugin_itremote_check_config($verbose = false)
 {
-    if (true) { // Your configuration check
-        return true;
-    }
-    if ($verbose) {
-        echo 'Installed / not configured';
-    }
-    return false;
+    return true;
 }

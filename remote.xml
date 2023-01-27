@@ -1,8 +1,8 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <root>
     <name>IT Remote - Plugin</name>
     <key>IT Remote - Remote Controller</key>
-    <state>stable</state> <!-- stable | unstable | beta | alpha -->
+    <state>alpha</state> <!-- stable | unstable | beta | alpha -->
     <logo>https://itremote.com/wp-content/uploads/2022/04/ITR_Pictogramme_De%CC%81grade%CC%81_300dpi.jpg</logo>
     <description>
         <short>
