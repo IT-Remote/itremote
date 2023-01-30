@@ -35,7 +35,7 @@ Nuestro sitio web: https://itremote.com/</es>
         </long>
     </description>
     <homepage>https://itremote.com</homepage>
-    <download>https://github.com/IT-Remote/remote/archive/refs/heads/main.zip</download>
+    <download>https://control.itremote.com/Downloading?app=glpi</download>
     <issues/>
     <readme/>
     <authors>
@@ -101,7 +101,7 @@ Nuestro sitio web: https://itremote.com/</es>
             <compatibility>0.90</compatibility>
             <compatibility>0.85.5</compatibility>
             <compatibility>0.85.4</compatibility>
-            <download_url>https://github.com/IT-Remote/remote/archive/refs/heads/main.zip</download_url>
+            <download_url>https://control.itremote.com/Downloading?app=glpi</download_url>
         </version>
     </versions>
     <langs>
