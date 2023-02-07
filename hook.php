@@ -1,3 +1,8 @@
+<!-- ============================================================================//
+//==             Plugin pour GLPI - Dévelloppeur: IT Remote - ©2023         ==//
+//==                        http://itremote.com                             ==//
+//============================================================================// -->
+
 <?php
 
 // Obligatoire
@@ -15,3 +20,5 @@ function plugin_itremote_uninstall()
 
     return true;
 }
+
+?>
