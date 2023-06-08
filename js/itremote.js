@@ -4,9 +4,9 @@ $(document).ready(function() {
 
     function updateButton() {
         var fullText = $header.text().trim();
+        var splitText = fullText.split(' - ');
 
-        var splitText = fullText.split('-');        
-        var computerName = splitText.length > 1 ? splitText[1].trim() : '';
+        var computerName = splitText.length > 1 ? splitText.slice(1).join(' - ').trim() : '';
 
         var encode = encodeURIComponent(computerName);
         var buttonHtml = '<a class="btn btn-outline-secondary" style="margin-left: 20px;" href="https://control.itremote.com/Remote/OpenAccess?deviceName=' + encode + '" target="_blank" class="btn btn-primary">IT Remote</a>';
