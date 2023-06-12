@@ -28,7 +28,7 @@
 
 use Glpi\Plugin\Hooks;
 
-define('PLUGIN_ITREMOTE_VERSION', '2.0');
+define('PLUGIN_ITREMOTE_VERSION', '1.5');
 
 // Minimal GLPI version, inclusive
 define('PLUGIN_ITREMOTE_MIN_GLPI', '0.85.4');
