@@ -43,7 +43,7 @@ Nuestro sitio web: https://itremote.com/</es>
     </authors>
     <versions>
         <version>
-            <num>1.5</num>
+            <num>2.0</num>
             <compatibility>~10.0.7</compatibility>
             <compatibility>~10.0.6</compatibility>
             <compatibility>~10.0.5</compatibility>
@@ -144,9 +144,9 @@ Nuestro sitio web: https://itremote.com/</es>
         </lang>
     </tags>
     <screenshots>
-        <screenshot>https://github.com/IT-Remote/remote/blob/main/img-itremote.com.png?raw=true</screenshot>
-        <screenshot>https://github.com/IT-Remote/remote/blob/main/img-remote-controller.png?raw=true</screenshot>
-        <screenshot>https://github.com/IT-Remote/remote/blob/main/img-plugin-itremote.png?raw=true</screenshot>
+        <screenshot>https://github.com/IT-Remote/remote/blob/main/misc/screenshots/img-itremote.com.png?raw=true</screenshot>
+        <screenshot>https://github.com/IT-Remote/remote/blob/main/misc/screenshots/img-remote-controller.png?raw=true</screenshot>
+        <screenshot>https://github.com/IT-Remote/remote/blob/main/misc/screenshots/img-plugin-itremote.png?raw=true</screenshot>
     </screenshots>
 </root>
 
