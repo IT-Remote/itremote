@@ -44,6 +44,15 @@ Nuestro sitio web: https://itremote.com/</es>
     <versions>
         <version>
             <num>2.0</num>
+            <compatibility>~10.0.16</compatibility>
+            <compatibility>~10.0.15</compatibility>
+            <compatibility>~10.0.14</compatibility>
+            <compatibility>~10.0.13</compatibility>
+            <compatibility>~10.0.12</compatibility>
+            <compatibility>~10.0.11</compatibility>
+            <compatibility>~10.0.10</compatibility>
+            <compatibility>~10.0.9</compatibility>
+            <compatibility>~10.0.8</compatibility>
             <compatibility>~10.0.7</compatibility>
             <compatibility>~10.0.6</compatibility>
             <compatibility>~10.0.5</compatibility>
