@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0"?>
 <root>
     <name>IT Remote - Plugin</name>
-    <key>IT Remote - Remote Controller</key>
-    <state>alpha</state> <!-- stable | unstable | beta | alpha -->
-    <logo>https://itremote.com/wp-content/uploads/2022/04/ITR_Pictogramme_De%CC%81grade%CC%81_300dpi.jpg</logo>
+    <key>itremote</key>
+    <state>stable</state> <!-- stable | unstable | beta | alpha -->
+    <logo>https://itremote.com/wp-content/uploads/2022/02/ITR_Pictogramme_Degrade.png</logo>
     <description>
         <short>
             <fr>Le plugin IT Remote, solution d’accès et d’assistance à distance.</fr>
@@ -11,7 +11,6 @@
             <es>El complemento IT Remote, una solución de asistencia y acceso remoto.</es>
             <lang>fr_FR</lang>
             <lang>en_US</lang>
-            <lang>es_ES</lang>
         </short>
         <long>
             <fr>Le plugin IT Remote, solution d’accès et d’assistance à distance, permet de réaliser directement à partir du Parc ou des Incidents de GPLI une prise de main à distance vos PC ou Serveurs.
@@ -24,14 +23,8 @@ Notre site Web : https://itremote.com/</fr>
 To do this, you must first either be an IT Remote customer and have a license or use our trial version.
             
 Our website: https://itremote.com/</en>
-            <es>El complemento IT Remote, una solución de acceso y asistencia remota, le permite realizar un control remoto de sus PC o Servidores directamente desde el Parque o GPLI Incidentes
-
-Para hacer esto, primero debe ser un cliente de IT Remote y tener una licencia o usar nuestra versión de prueba.
-            
-Nuestro sitio web: https://itremote.com/</es>
             <lang>fr_FR</lang>
             <lang>en_US</lang>
-            <lang>es_ES</lang>
         </long>
     </description>
     <homepage>https://itremote.com</homepage>
@@ -43,7 +36,7 @@ Nuestro sitio web: https://itremote.com/</es>
     </authors>
     <versions>
         <version>
-            <num>2.0</num>
+            <num>3.0</num>
             <compatibility>~10.0.18</compatibility>
             <compatibility>~10.0.17</compatibility>
             <compatibility>~10.0.16</compatibility>
@@ -120,7 +113,6 @@ Nuestro sitio web: https://itremote.com/</es>
     <langs>
         <lang>fr_FR</lang>
         <lang>en_US</lang>
-        <lang>es_ES</lang>
     </langs>
     <license>GPL v2+</license>
     <tags>
@@ -155,9 +147,8 @@ Nuestro sitio web: https://itremote.com/</es>
         </lang>
     </tags>
     <screenshots>
-        <screenshot>https://github.com/IT-Remote/remote/blob/main/misc/screenshots/img-itremote.com.png?raw=true</screenshot>
-        <screenshot>https://github.com/IT-Remote/remote/blob/main/misc/screenshots/img-remote-controller.png?raw=true</screenshot>
-        <screenshot>https://github.com/IT-Remote/remote/blob/main/misc/screenshots/img-plugin-itremote.png?raw=true</screenshot>
+        <screenshot>https://github.com/IT-Remote/remote/blob/main/misc/screenshots/itremote-front.jpg?raw=true</screenshot>
+        <screenshot>https://github.com/IT-Remote/remote/blob/main/misc/screenshots/glpi-button.png?raw=true</screenshot>
+        <screenshot>https://github.com/IT-Remote/remote/blob/main/misc/screenshots/it-remote-control.png?raw=true</screenshot>
     </screenshots>
 </root>
-
