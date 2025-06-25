@@ -11,6 +11,7 @@
             <es>El complemento IT Remote, una solución de asistencia y acceso remoto.</es>
             <lang>fr_FR</lang>
             <lang>en_US</lang>
+            <lang>es_ES</lang>
         </short>
         <long>
             <fr>Le plugin IT Remote, solution d’accès et d’assistance à distance, permet de réaliser directement à partir du Parc ou des Incidents de GPLI une prise de main à distance vos PC ou Serveurs.
@@ -23,8 +24,14 @@ Notre site Web : https://itremote.com/</fr>
 To do this, you must first either be an IT Remote customer and have a license or use our trial version.
             
 Our website: https://itremote.com/</en>
+            <es>El complemento IT Remote, una solución de acceso y asistencia remota, le permite realizar un control remoto de sus PC o Servidores directamente desde el Parque o GPLI Incidentes
+
+Para hacer esto, primero debe ser un cliente de IT Remote y tener una licencia o usar nuestra versión de prueba.
+            
+Nuestro sitio web: https://itremote.com/</es>
             <lang>fr_FR</lang>
             <lang>en_US</lang>
+            <lang>es_ES</lang>
         </long>
     </description>
     <homepage>https://itremote.com</homepage>
@@ -36,7 +43,7 @@ Our website: https://itremote.com/</en>
     </authors>
     <versions>
         <version>
-            <num>3.0</num>
+            <num>2.1</num>
             <compatibility>~10.0.18</compatibility>
             <compatibility>~10.0.17</compatibility>
             <compatibility>~10.0.16</compatibility>
@@ -113,6 +120,7 @@ Our website: https://itremote.com/</en>
     <langs>
         <lang>fr_FR</lang>
         <lang>en_US</lang>
+        <lang>es_ES</lang>
     </langs>
     <license>GPL v2+</license>
     <tags>
