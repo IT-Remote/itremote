@@ -35,10 +35,11 @@
     </authors>
     <versions>
         <version>
-            <num>2.2</num>
+            <num>2.3</num>
             <compatibility>^9.0</compatibility>
             <compatibility>^10.0</compatibility>
-        <download_url>https://control.itremote.com/DownloadingApp?app=Glpi</download_url>
+			<compatibility>^11.0</compatibility>
+			<download_url>https://control.itremote.com/DownloadingApp?app=Glpi</download_url>
         </version>
     </versions>
     <langs>
