@@ -27,7 +27,7 @@
         </long>
     </description>
     <homepage>https://itremote.com</homepage>
-    <download>https://raw.githubusercontent.com/IT-Remote/itremote/refs/heads/main/itremote.zip</download>
+    <download>https://control.itremote.com/DownloadingApp?app=Glpi</download>
     <issues/>
     <readme/>
     <authors>
@@ -39,7 +39,8 @@
             <compatibility>^9.0</compatibility>
             <compatibility>^10.0</compatibility>
 			<compatibility>^11.0</compatibility>
-			<download_url>https://raw.githubusercontent.com/IT-Remote/itremote/refs/heads/main/itremote.zip</download_url>
+			<compatibility>^12.0</compatibility>
+			<download_url>https://control.itremote.com/DownloadingApp?app=Glpi</download_url>
         </version>
     </versions>
     <langs>
@@ -105,6 +106,6 @@
     <screenshots>
         <screenshot>https://github.com/IT-Remote/remote/blob/main/misc/screenshots/itremote-front.jpg?raw=true</screenshot>
         <screenshot>https://github.com/IT-Remote/remote/blob/main/misc/screenshots/glpi-button.png?raw=true</screenshot>
-        <screenshot>https://github.com/IT-Remote/remote/blob/main/misc/screenshots/itremote-control.png?raw=true</screenshot>
+        <screenshot>https://github.com/IT-Remote/remote/blob/main/misc/screenshots/it-remote-control.png?raw=true</screenshot>
     </screenshots>
 </root>
