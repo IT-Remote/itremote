@@ -1,4 +1,4 @@
-# IT Remote (GLPI 9/10/11)
+# IT Remote (GLPI 9/10/11/12)
 
 ## Que faitcCe plugin?
 Crée automatiquement un bouton nommé *IT Remote* avec un **Lien externe**,
