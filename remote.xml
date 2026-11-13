@@ -17,7 +17,7 @@
         </short>
         <long>
             <fr>Ce plugin permet d'utiliser IT Remote, solution d’accès et d’assistance à distance, pour lancer une prise en main à distance directement depuis un ordinateur (PC ou serveur) du parc informatique GLPI. https://itremote.com</fr>
-            <en>TThis plugin enables you to use IT Remote, a remote access and assistance solution, to launch a remote control directly from a computer (PC or server) in the GLPI IT environment. https://itremote.com</en>
+            <en>This plugin enables you to use IT Remote, a remote access and assistance solution, to launch a remote control directly from a computer (PC or server) in the GLPI IT environment. https://itremote.com</en>
             <es>Este plugin permite utilizar IT Remote, una solución de acceso y asistencia remotos, para lanzar un control remoto directamente desde un ordenador (PC o servidor) en el entorno GLPI IT. https://itremote.com</es>
             <pt>Esse plug-in permite que você use o IT Remote, uma solução de acesso e assistência remotos, para iniciar um controle remoto diretamente de um computador (PC ou servidor) no ambiente de TI do GLPI. https://itremote.com</pt>
             <lang>fr_FR</lang>
@@ -35,7 +35,7 @@
     </authors>
     <versions>
         <version>
-            <num>2.3</num>
+            <num>2.4</num>
             <compatibility>^9.0</compatibility>
             <compatibility>^10.0</compatibility>
 			<compatibility>^11.0</compatibility>
