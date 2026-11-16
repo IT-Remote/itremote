@@ -26,10 +26,10 @@
             <lang>pt_BR</lang>
         </long>
     </description>
-    <homepage>https://itremote.com</homepage>
+    <homepage>https://github.com/IT-Remote/itremote</homepage>
     <download>https://control.itremote.com/DownloadingApp?app=Glpi</download>
-    <issues/>
-    <readme/>
+    <issues>https://github.com/IT-Remote/itremote/issues</issues>
+    <readme>https://github.com/IT-Remote/itremote/blob/main/README.md</readme>
     <authors>
         <author>IT Remote</author>
     </authors>
