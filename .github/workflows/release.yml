@@ -21,6 +21,8 @@ jobs:
           rsync -av \
             --exclude='.git' \
             --exclude='.github' \
+            --exclude='.gitignore' \
+            --exclude='package' \
             --exclude='misc' \
             --exclude='README.md' \
             ./ package/itremote/
