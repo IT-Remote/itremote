@@ -1,6 +1,10 @@
-# IT Remote (GLPI 9 à 12)
+﻿# Plugin IT Remote (GLPI 9 à 12)
 
-Plugin GLPI qui ajoute un accès **IT Remote** aux fiches **Ordinateurs** :
+La solution logicielle « IT Remote » est développée par un éditeur français (fondé en 2020).
+IT Remote est une [solution web tout-en-un de téléassistance et de contrôle à distance](https://itremote.com).
+Elle est conçue pour les services informatiques d'entreprise, les prestataires de services et les administrateurs systèmes.
+
+Ce plugin GLPI permet d'ajouter un accès direct en prise de main à distance avec **IT Remote** sur chaque fiche **Ordinateur** :
 - un bouton *IT Remote* à gauche du bouton *Actions* ;
 - un onglet *IT Remote* avec le même lien.
 
